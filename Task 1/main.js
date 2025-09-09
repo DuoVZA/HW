@@ -72,7 +72,19 @@
 
 // задание 5
 
-
+// let number = parseInt(prompt("Введите пятиразрядное число: ", "12345"));
+// let num1 = parseInt(number % 10);
+// let num2 = parseInt(number % 100 / 10);
+// let num3 = parseInt(number % 1000 / 100);
+// let num4 = parseInt(number % 10000 / 1000);
+// let num5 = parseInt(number % 100000 / 10000);
+// if (num1 == num5 && num2 == num4) {
+//     alert("Число палиндром");
+// }
+// else
+// {
+//     alert("Число не палиндром");
+// }
 
 // задание 6
 
